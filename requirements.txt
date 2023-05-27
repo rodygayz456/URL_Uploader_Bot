@@ -13,8 +13,6 @@ yt-dlp
 aiohttp
 hachoir
 olefile
-requests
-tgcrypto
 filetype
 aiofiles
 dnspython

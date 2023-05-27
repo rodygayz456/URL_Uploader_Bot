@@ -6,3 +6,4 @@ requests
 pySmartDL
 bs4
 html5lib
+Python 3.9.2

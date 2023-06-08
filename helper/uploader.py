@@ -20,7 +20,7 @@ class Upload:
         self.userid = update.chat.id
         self.msg_id = update.message_id
         self.old_msg = old_msg
-        self.filename = 123.mp4
+        self.filename = filename
         self.downloadFolder = downloadFolder
 
     async def start(self):
